@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Rahul Kumar - Software Developer animated banner"/>
+<img src="./banner.svg/assets/banner.svg" width="100%" alt="Rahul Kumar - Software Developer animated banner"/>
 
 <br/>
 
